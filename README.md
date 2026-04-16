@@ -20,3 +20,9 @@ The program builds a Huffman Tree based on character frequencies, assigns binary
 1. Compile the project
 2. Run the program
 3. Choose compress or decompress
+
+## Example
+Input file:
+input.txt
+
+Run the program to compress and decompress this file.
