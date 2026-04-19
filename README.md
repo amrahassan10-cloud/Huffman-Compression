@@ -26,3 +26,6 @@ Input file:
 input.txt
 
 Run the program to compress and decompress this file.
+
+care!!
+this compression program works with cmd
